@@ -4,7 +4,7 @@ This Power BI project presents an interactive analysis of IMDb's movie data.
 
 ## 📂 Download the Dashboard
 
-> ⚠️ Due to GitHub file size limits, the `.pbix` file is hosted externally.
+> ⚠️ Due to GitHub file size limits, the `.pbix` file is hosted externally, you can download and explore the full dashboard locally using Power BI Desktop.
 
 - 📥 [Download PBIX from OneDrive](https://espiritosanto-my.sharepoint.com/:u:/g/personal/pedro_burini_uvvnet_com_br/EYoPjQo_jjlPo5YBiEC0dwsBjOhap0qBSeDQESC9LjksLA?e=96ZVjh)
 
