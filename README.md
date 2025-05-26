@@ -37,4 +37,4 @@ This Power BI project presents an interactive analysis of IMDb's movie data.
 
 ---
 
-Made by [Pedro Burini]
+*Developed by [Pedro Burini](https://github.com/pedroburini)*
