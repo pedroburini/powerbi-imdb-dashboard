@@ -29,7 +29,7 @@ This Power BI project presents an interactive analysis of IMDb's movie data.
 - **DAX** for calculated measures and filtering logic
 - **Power Query** for data transformation
 - **DAX Studio** to optimize performance and remove unused columns
-- **Python & APIs** movie poster images were obtained using the Python programming language and by connecting to the following API: The Movies Database API (TMDb) https://developer.themoviedb.org/docs/getting-started
+- **Python & APIs**: movie poster images were obtained using the Python programming language and by connecting to the following API: The Movies Database API (TMDb) https://developer.themoviedb.org/docs/getting-started
 
 ## 📄 PDF Version
 
